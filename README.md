@@ -221,4 +221,6 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
         delay(15000);
       }
 
+Educational ESP32 and IoT projects including sensor applications, internet data communication, real-time monitoring systems and embedded programming examples.
 
+15.05.2026 / ISTANBUL - TURKIYE
