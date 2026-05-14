@@ -127,11 +127,11 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
   <tr>
     <td align="center" colspan="1">
       <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-4.png" width="330"><br>
-      Görsel 4
+      Şema 4. Üyelik mail adresi doğrulaması
     </td>
     <td align="center" colspan="2">
       <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-5.png" width="330"><br>
-      Görsel 5
+      Şema 5. Üyelik detay bilgileri
     </td>
   </tr>
 
@@ -139,7 +139,7 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
   <tr>
     <td align="center" colspan="3">
       <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-6.png" width="660"><br>
-      Görsel 6
+      Şema 6. Üyelik işleminin tamamlanmış hali
     </td>
   </tr>
 
