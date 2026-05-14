@@ -47,15 +47,29 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    2.2. Board --> ESP32 Dev Module   
    2.3. Port Seçimi --> COM(....)   
 
-4. BÖLÜM - İlk Test Kodu   
-      void setup()   
-      {   
-        Serial.begin(115200);   
-      }   
-      
-      void loop()   
-      {  
-        Serial.println("ESP32 Calisiyor");   
-        delay(1000);   
-      }   
+4. BÖLÜM - İlk Test Kodu
 
+         void setup()   
+         {   
+         Serial.begin(115200);   
+         }   
+         void loop()   
+         {  
+         Serial.println("ESP32 Calisiyor");   
+         delay(1000);   
+         }
+
+6. BÖLÜM - İlk Test Kodu   
+#define LED 2
+
+void setup() {
+  pinMode(LED, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(LED, HIGH);
+  delay(1000);
+
+  digitalWrite(LED, LOW);
+  delay(1000);
+}
