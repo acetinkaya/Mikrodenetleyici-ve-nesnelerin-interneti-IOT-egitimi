@@ -37,9 +37,20 @@ Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler ala
 
 1. BÖLÜM — IoT ve ESP32’ye Giriş
 
-2. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu
-   2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-   2.2. Board --> ESP32 Dev Module
-   2.3. Port Seçimi --> COM(....)
+2. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
+   2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json   
+   2.2. Board --> ESP32 Dev Module   
+   2.3. Port Seçimi --> COM(....)   
 
+3. BÖLÜM - İlk Test Kodu
+      void setup()
+      {
+        Serial.begin(115200);
+      }
+      
+      void loop()
+      {
+        Serial.println("ESP32 Calisiyor");
+        delay(1000);
+      }
 
