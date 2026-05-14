@@ -32,3 +32,14 @@ Eğitim sonunda ise mini hackathon yapısıyla öğrencilerin kendi sistemlerini
 Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler alanında üretmeye devam ediyoruz 🚀
 
 #IoT #ESP32 #Arduino #Mikrodenetleyici #EmbeddedSystems #InternetOfThings #YapayZeka #Robotik #OtonomSistemler #Teknoloji #Eğitim #DanışmanlıÖğrenme #Hackathon #İstanbulMedeniyetÜniversitesi
+
+----
+
+1. BÖLÜM — IoT ve ESP32’ye Giriş
+
+2. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu
+   2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+   2.2. Board --> ESP32 Dev Module
+   2.3. Port Seçimi --> COM(....)
+
+
