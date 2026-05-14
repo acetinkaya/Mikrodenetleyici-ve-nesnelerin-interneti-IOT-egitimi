@@ -151,8 +151,8 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
 
 ## 6.2. Kod Bölümü Gereksinimleri - Kütüphane Kurulumları:
 
--WiFi.h
--HTTPClient.h
+- WiFi.h   
+- HTTPClient.h   
 
 ----
 
