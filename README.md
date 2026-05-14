@@ -47,7 +47,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    2.2. Board --> ESP32 Dev Module   
    2.3. Port Seçimi --> COM(....)   
 
-4. BÖLÜM - İlk Test Kodu
+4. BÖLÜM - İlk Test Kodu - Seri Port
 
          void setup()   
          {   
@@ -59,7 +59,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
          delay(1000);   
          }
 
-6. BÖLÜM - İlk Test Kodu   
+6. BÖLÜM - İkinci Test Kodu - Led
 
          #define LED 2
          void setup()
