@@ -52,7 +52,8 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
          void setup()   
          {   
          Serial.begin(115200);   
-         }   
+         }
+   
          void loop()   
          {  
          Serial.println("ESP32 Calisiyor");   
@@ -62,14 +63,41 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
 6. BÖLÜM - İkinci Test Kodu - Led
 
          #define LED 2
+   
          void setup()
          {
            pinMode(LED, OUTPUT);
          }
+   
          void loop()
          {
            digitalWrite(LED, HIGH);
            delay(1000);
            digitalWrite(LED, LOW);
            delay(1000);
+         }
+
+8. BÖLÜM - Üçüncü Test Kodu - DHT11 Isı Nem Sensörü
+
+         #include "DHT.h"
+         #define DHTPIN 4
+         #define DHTTYPE DHT11
+         
+         DHT dht(DHTPIN, DHTTYPE);
+         
+         void setup() 
+         {
+           Serial.begin(115200);
+           dht.begin();
+         }
+         
+         void loop() 
+         {
+           float sicaklik = dht.readTemperature();
+           float nem = dht.readHumidity();
+           Serial.print("Sicaklik: ");
+           Serial.print(sicaklik);
+           Serial.print(" Nem: ");
+           Serial.println(nem);
+           delay(2000);
          }
