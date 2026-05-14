@@ -101,3 +101,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
            Serial.println(nem);
            delay(2000);
          }
+   
+9. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
+
+10. 
