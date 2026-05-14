@@ -39,7 +39,7 @@ Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler ala
 
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp-danismanliogrenme-kart2.png)
 
-![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp_blok_diyagram.png)
+![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp_blok_diyagram.png)   
 ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
 3. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
