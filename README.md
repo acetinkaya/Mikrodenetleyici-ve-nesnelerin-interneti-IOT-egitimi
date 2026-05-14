@@ -111,7 +111,7 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-1.png" width="220"><br>
-      Görsel 1
+      Şema 1. [thingspeak sayfası](https://thingspeak.mathworks.com/)
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-2.png" width="220"><br>
