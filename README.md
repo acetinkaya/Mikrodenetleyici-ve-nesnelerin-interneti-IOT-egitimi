@@ -35,18 +35,6 @@ Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler ala
 
 ----
 
-📬 Benimle İletişim İçin
-
-Yapay zeka, algoritma geliştirme, Python programlama, gömülü sistemler ve teknoloji odaklı içerikler için sosyal medya hesaplarımı takip edebilirsiniz.
-
-📸 Instagram: https://www.instagram.com/danismanliogrenme/  
-▶️ YouTube: https://www.youtube.com/@danismanliogrenme  
-🎵 TikTok: https://www.tiktok.com/@danismanliogrenme  
-
-👨‍💻 Ali Çetinkaya | [Danışmanlı Öğrenme](https://www.instagram.com/danismanliogrenme)  
-
-----
-
 # 1. BÖLÜM — IoT ve ESP32’ye Giriş
 
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp-danismanliogrenme-kart2.png)
@@ -233,6 +221,19 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
         delay(15000);
       }
 
-Educational ESP32 and IoT projects including sensor applications, internet data communication, real-time monitoring systems and embedded programming examples.
+----
 
-15.05.2026 / ISTANBUL - TURKIYE
+📬 Benimle İletişim | Contact Information
+
+Yapay zeka, algoritma geliştirme, Python programlama, gömülü sistemler ve teknoloji odaklı içerikler için sosyal medya hesaplarımı takip edebilirsiniz. Sensör uygulamaları, internet üzerinden veri iletişimi, gerçek zamanlı izleme sistemleri ve gömülü programlama örneklerini içeren eğitsel ESP32 ve Nesnelerin İnterneti (IoT) projeleri.
+
+You can follow my social media accounts for content focused on artificial intelligence, algorithm development, Python programming, embedded systems, and technology-oriented projects. Educational ESP32 and IoT projects including sensor applications, internet data communication, real-time monitoring systems, and embedded programming examples.
+ 
+📸 Instagram: https://www.instagram.com/danismanliogrenme/   
+▶️ YouTube: https://www.youtube.com/@danismanliogrenme  
+🎵 TikTok: https://www.tiktok.com/@danismanliogrenme   
+
+👨‍💻 Ali Çetinkaya | Danışmanlı Öğrenme
+
+📅 15.05.2026
+📍 Yalova / Türkiye
