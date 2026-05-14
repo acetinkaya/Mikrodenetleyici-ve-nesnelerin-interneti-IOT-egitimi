@@ -139,9 +139,5 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
   </tr>
 </table>
 
-![alternatif metin]()
-![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-2.png)
-![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-3.png)
 
 
-10. 
