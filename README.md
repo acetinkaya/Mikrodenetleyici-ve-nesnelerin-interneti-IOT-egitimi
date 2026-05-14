@@ -35,19 +35,19 @@ Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler ala
 
 ----
 
-1. BÖLÜM — IoT ve ESP32’ye Giriş
+# 1. BÖLÜM — IoT ve ESP32’ye Giriş
 
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp-danismanliogrenme-kart2.png)
 
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp_blok_diyagram.png)   
 ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
-3. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
+# 2. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
    2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json   
    2.2. Board --> ESP32 Dev Module   
    2.3. Port Seçimi --> COM(....)   
 
-4. BÖLÜM - İlk Test Kodu - Seri Port
+# 3. BÖLÜM - İlk Test Kodu - Seri Port
 
          void setup()   
          {   
@@ -60,7 +60,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
          delay(1000);   
          }
 
-6. BÖLÜM - İkinci Test Kodu - Led
+# 4. BÖLÜM - İkinci Test Kodu - Led
 
          #define LED 2
    
@@ -77,7 +77,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
            delay(1000);
          }
 
-8. BÖLÜM - Üçüncü Test Kodu - DHT11 Isı Nem Sensörü
+# 5. BÖLÜM - Üçüncü Test Kodu - DHT11 Isı Nem Sensörü
 
          #include "DHT.h"
          #define DHTPIN 4
@@ -102,7 +102,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
            delay(2000);
          }
    
-9. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
+# 6. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
 Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfasına üyelik yapılması gerekmektedir. Öğrenci mail adresleri veya şahsi mail adresiniz ile ücretsiz deneme için üyelik yapabilirsiniz. 
 
