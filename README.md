@@ -37,11 +37,10 @@ Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler ala
 
 1. BÖLÜM — IoT ve ESP32’ye Giriş
 
-ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
-
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp-danismanliogrenme-kart2.png)
 
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp_blok_diyagram.png)
+ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
 3. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
    2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json   
