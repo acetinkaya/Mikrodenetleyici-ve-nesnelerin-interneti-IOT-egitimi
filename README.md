@@ -155,10 +155,29 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
 
 -----
 
-## 6.2. Kod Bölümü Gereksinimleri - Kütüphane Kurulumları:
+## 6.2. Kod Bölümü Gereksinimleri & Kütüphane Kurulumları:
 
-- WiFi.h   
-- HTTPClient.h   
+6.2.1. Gerekli Kütüphaneler   
+- WiFi.h     
+- HTTPClient.h     
+
+6.2.2. ThingSpeak hesabına gir ve New Channel oluştur.   
+6.2.3. Kanal alanlarını oluştur.   
+
+      Channel Name: ESP32 DHT11 Veri İzleme Sistemi
+      Field 1: Temperature
+      Field 2: Humidity
+      
+6.2.4. Kanalı kaydettikten sonra API Keys sekmesine gir ve oradaki Write API Key değerini al.
+
+6.2.5. ESP Yazılımında "String apiKey = "APIKEY";" kısmındaki API bilgisine işle. 
+
+6.2.6. WiFi bilgilerini telefonundan oluşturarak, bir wifi ismi ve şifresi belirleyin. Bu bilgileri aşağıdaki kod bölümüne işle. 
+
+      const char* ssid = "Ali_Hocam_WiFi";
+      const char* password = "12345678";
+
+6.2.7. Kod çalışınca ESP32 şu adrese veri gönderir: http://api.thingspeak.com/update?api_key=APIKEY&field1=sicaklik&field2=nem
 
 ----
 
@@ -236,5 +255,5 @@ You can follow my social media accounts for content focused on artificial intell
 
 👨‍💻 Ali Çetinkaya | Danışmanlı Öğrenme
 
-📅 15.05.2026
+📅 15.05.2026    
 📍 Yalova / Türkiye
