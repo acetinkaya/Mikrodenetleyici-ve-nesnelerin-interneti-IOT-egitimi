@@ -60,16 +60,16 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
          }
 
 6. BÖLÜM - İlk Test Kodu   
-#define LED 2
 
-void setup() {
-  pinMode(LED, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(LED, HIGH);
-  delay(1000);
-
-  digitalWrite(LED, LOW);
-  delay(1000);
-}
+         #define LED 2
+         void setup()
+         {
+           pinMode(LED, OUTPUT);
+         }
+         void loop()
+         {
+           digitalWrite(LED, HIGH);
+           delay(1000);
+           digitalWrite(LED, LOW);
+           delay(1000);
+         }
