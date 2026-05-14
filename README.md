@@ -104,39 +104,47 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    
 9. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
-<table>
+<table align="center">
+
+  <!-- 1. SATIR / 3 GÖRSEL -->
   <tr>
     <td align="center">
-      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-1.png" width="220"><br>
+      <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-1.png" width="220"><br>
       Görsel 1
     </td>
+
     <td align="center">
-      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-2.png" width="220"><br>
+      <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-2.png" width="220"><br>
       Görsel 2
     </td>
+
     <td align="center">
-      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-3.png" width="220"><br>
+      <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-3.png" width="220"><br>
       Görsel 3
     </td>
   </tr>
 
+  <!-- 2. SATIR / 2 GÖRSEL -->
   <tr>
-    <td align="center">
-      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-4.png" width="330"><br>
+    <td align="center" colspan="1">
+      <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-4.png" width="330"><br>
       Görsel 4
     </td>
-    <td align="center">
-      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-5.png" width="330"><br>
+
+    <td align="center" colspan="2">
+      <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-5.png" width="330"><br>
       Görsel 5
     </td>
   </tr>
 
+  <!-- 3. SATIR / 1 GÖRSEL -->
   <tr>
-    <td align="center">
-      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-6" width="660"><br>
-      Görsel 7
+    <td align="center" colspan="3">
+      <img src="https://raw.githubusercontent.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/main/ThingSpeak-sistemi-6.png" width="660"><br>
+      Görsel 6
     </td>
   </tr>
+
 </table>
 
 
