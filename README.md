@@ -104,7 +104,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    
 # 6. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
-6.1. API Sistemi Üyelik Gereksinimi: 
+## 6.1. API Sistemi Üyelik Gereksinimi: 
 
 Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfasına üyelik yapılması gerekmektedir. Öğrenci mail adresleri veya şahsi mail adresiniz ile ücretsiz deneme için üyelik yapabilirsiniz. 
 
@@ -149,12 +149,14 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
 
 -----
 
-Kod Bölümü Gereksinimleri - Kütüphane Kurulumları:
+## 6.2. Kod Bölümü Gereksinimleri - Kütüphane Kurulumları:
 
+-WiFi.h
+-HTTPClient.h
 
 ----
 
-Yazılım Bölümü 
+## 6.3. IOT Yazılım Tarafı 
 
       #include <WiFi.h>
       #include <HTTPClient.h>
