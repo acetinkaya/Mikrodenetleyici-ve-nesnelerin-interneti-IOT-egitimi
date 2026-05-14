@@ -104,6 +104,6 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    
 9. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
-https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-1.png
+![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-1.png)
 
 10. 
