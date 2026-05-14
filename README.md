@@ -2,6 +2,8 @@
 
 ## 15.05.2026 - İstanbul Medeniyet Üniversitesi - Üsküdar / İstanbul
 
+![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/medeniyet_egitim.jpeg)
+
 🚀 İstanbul Medeniyet Üniversitesi bünyesinde gerçekleştirilen “Mikrodenetleyici ve Nesnelerin İnterneti (IoT) Eğitimi” kapsamında uygulamalı atölye eğitimi sürecinde teknik eğitmen olarak yer almaktayım.
 
 Bu eğitim sürecinde katılımcılarla birlikte;
