@@ -232,6 +232,7 @@ You can follow my social media accounts for content focused on artificial intell
 📸 Instagram: https://www.instagram.com/danismanliogrenme/   
 ▶️ YouTube: https://www.youtube.com/@danismanliogrenme  
 🎵 TikTok: https://www.tiktok.com/@danismanliogrenme   
+💼 LinkedIn: https://www.linkedin.com/in/ogrgoralicetinkaya/
 
 👨‍💻 Ali Çetinkaya | Danışmanlı Öğrenme
 
