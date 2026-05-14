@@ -104,6 +104,8 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    
 # 6. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
+6.1. API Sistemi Üyelik Gereksinimi: 
+
 Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfasına üyelik yapılması gerekmektedir. Öğrenci mail adresleri veya şahsi mail adresiniz ile ücretsiz deneme için üyelik yapabilirsiniz. 
 
 <table align="center">
@@ -145,5 +147,70 @@ Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfası
 
 </table>
 
+-----
+
+Kod Bölümü Gereksinimleri - Kütüphane Kurulumları:
+
+
+----
+
+Yazılım Bölümü 
+
+      #include <WiFi.h>
+      #include <HTTPClient.h>
+      #include "DHT.h"
+      
+      #define DHTPIN 4
+      #define DHTTYPE DHT11
+      
+      DHT dht(DHTPIN, DHTTYPE);
+      
+      const char* ssid = "WiFi_ADI";
+      const char* password = "SIFRE";
+      
+      String apiKey = "APIKEY";
+      
+      void setup() {
+      
+        Serial.begin(115200);
+      
+        WiFi.begin(ssid, password);
+      
+        while(WiFi.status() != WL_CONNECTED){
+          delay(1000);
+          Serial.println("Baglaniyor...");
+        }
+      
+        Serial.println("WiFi Baglandi");
+      
+        dht.begin();
+      }
+      
+      void loop() {
+      
+        float t = dht.readTemperature();
+        float h = dht.readHumidity();
+      
+        if(WiFi.status()== WL_CONNECTED){
+      
+          HTTPClient http;
+      
+          String url =
+          "http://api.thingspeak.com/update?api_key="
+          + apiKey +
+          "&field1=" + String(t) +
+          "&field2=" + String(h);
+      
+          http.begin(url);
+      
+          int httpCode = http.GET();
+      
+          Serial.println(httpCode);
+      
+          http.end();
+        }
+      
+        delay(15000);
+      }
 
 
