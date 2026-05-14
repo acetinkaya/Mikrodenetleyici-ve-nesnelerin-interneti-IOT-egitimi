@@ -104,8 +104,9 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    
 9. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
-<table align="center">
+Bu kısmın gercekleştirilmesi için https://thingspeak.mathworks.com/ sayfasına üyelik yapılması gerekmektedir. Öğrenci mail adresleri veya şahsi mail adresiniz ile ücretsiz deneme için üyelik yapabilirsiniz. 
 
+<table align="center">
   <!-- 1. SATIR / 3 GÖRSEL -->
   <tr>
     <td align="center">
