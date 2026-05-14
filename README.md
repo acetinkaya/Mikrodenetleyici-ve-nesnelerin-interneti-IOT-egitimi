@@ -1,6 +1,8 @@
 # Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi   
 
-🚀 İstanbul Medeniyet Üniversitesi bünyesinde gerçekleştirilecek “Mikrodenetleyici ve Nesnelerin İnterneti (IoT) Eğitimi” kapsamında uygulamalı atölye eğitimi sürecinde teknik eğitmen olarak yer almaktayım.
+## 15.05.2026 - İstanbul Medeniyet Üniversitesi - Üsküdar / İstanbul
+
+🚀 İstanbul Medeniyet Üniversitesi bünyesinde gerçekleştirilen “Mikrodenetleyici ve Nesnelerin İnterneti (IoT) Eğitimi” kapsamında uygulamalı atölye eğitimi sürecinde teknik eğitmen olarak yer almaktayım.
 
 Bu eğitim sürecinde katılımcılarla birlikte;
 
