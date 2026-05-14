@@ -104,7 +104,42 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
    
 9. BÖLÜM - Dördüncü Test Kodu - IoT Veriyi İnternet Ortamına Aktarma
 
-![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-1.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-1.png" width="220"><br>
+      Görsel 1
+    </td>
+    <td align="center">
+      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-2.png" width="220"><br>
+      Görsel 2
+    </td>
+    <td align="center">
+      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-3.png" width="220"><br>
+      Görsel 3
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-4.png" width="330"><br>
+      Görsel 4
+    </td>
+    <td align="center">
+      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-5.png" width="330"><br>
+      Görsel 5
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-6" width="660"><br>
+      Görsel 7
+    </td>
+  </tr>
+</table>
+
+![alternatif metin]()
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-2.png)
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/ThingSpeak-sistemi-3.png)
 
