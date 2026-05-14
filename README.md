@@ -42,10 +42,16 @@ Teknoloji, algoritma geliştirme, gömülü sistemler ve otonom teknolojiler ala
 ![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp_blok_diyagram.png)   
 ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
+----
+
 # 2. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
    2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json   
    2.2. Board --> ESP32 Dev Module   
    2.3. Port Seçimi --> COM(....)   
+
+![alternatif metin](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi/blob/main/esp_board.png)
+
+----
 
 # 3. BÖLÜM - İlk Test Kodu - Seri Port
 
