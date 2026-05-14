@@ -45,7 +45,7 @@ ESP32 Datasheet --> https://www.espressif.com/sites/default/files/documentation/
 ----
 
 # 2. BÖLÜM — Arduino IDE Kurulumu ve ESP32 Aktivasyonu   
-   2.1. ESP32 Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json   
+   2.1. ESP32 Board Manager URL: Arduino --> File --> Preferences --> Additional boards manager URLs: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json   
    2.2. Board --> ESP32 Dev Module   
    2.3. Port Seçimi --> COM(....)   
 
